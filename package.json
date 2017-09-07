@@ -1,0 +1,22 @@
+{
+  "name": "node-todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihmert-medyanet/node-todo-api.git"
+  },
+  "author": "fatih mert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatihmert-medyanet/node-todo-api/issues"
+  },
+  "homepage": "https://github.com/fatihmert-medyanet/node-todo-api#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
