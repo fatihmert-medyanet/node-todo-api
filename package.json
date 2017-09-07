@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fatihmert-medyanet/node-todo-api#readme",
   "dependencies": {
-    "mongodb": "^2.2.31"
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.10"
   }
 }
